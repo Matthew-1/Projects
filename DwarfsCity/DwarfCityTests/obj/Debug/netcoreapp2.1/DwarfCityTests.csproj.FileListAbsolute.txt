@@ -1,0 +1,17 @@
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfCityTests\obj\Debug\netcoreapp2.1\DwarfCityTests.csprojAssemblyReference.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfCityTests\obj\Debug\netcoreapp2.1\DwarfCityTests.csproj.CoreCompileInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfCityTests\obj\Debug\netcoreapp2.1\DwarfCityTests.AssemblyInfoInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfCityTests\obj\Debug\netcoreapp2.1\DwarfCityTests.AssemblyInfo.cs
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfCityTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfCityTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfCityTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfCityTests\bin\Debug\netcoreapp2.1\DwarfCityTests.deps.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfCityTests\bin\Debug\netcoreapp2.1\DwarfCityTests.runtimeconfig.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfCityTests\bin\Debug\netcoreapp2.1\DwarfCityTests.runtimeconfig.dev.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfCityTests\bin\Debug\netcoreapp2.1\DwarfCityTests.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfCityTests\bin\Debug\netcoreapp2.1\DwarfCityTests.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfCityTests\bin\Debug\netcoreapp2.1\DwarfsCity.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfCityTests\bin\Debug\netcoreapp2.1\DwarfsCity.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfCityTests\obj\Debug\netcoreapp2.1\DwarfCityTests.csproj.CopyComplete
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfCityTests\obj\Debug\netcoreapp2.1\DwarfCityTests.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfCityTests\obj\Debug\netcoreapp2.1\DwarfCityTests.pdb

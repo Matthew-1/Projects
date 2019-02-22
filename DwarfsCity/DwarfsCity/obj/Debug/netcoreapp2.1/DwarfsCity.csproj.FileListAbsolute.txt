@@ -1,0 +1,11 @@
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfsCity\obj\Debug\netcoreapp2.1\DwarfsCity.csprojAssemblyReference.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfsCity\obj\Debug\netcoreapp2.1\DwarfsCity.csproj.CoreCompileInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfsCity\obj\Debug\netcoreapp2.1\DwarfsCity.AssemblyInfoInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfsCity\obj\Debug\netcoreapp2.1\DwarfsCity.AssemblyInfo.cs
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfsCity\bin\Debug\netcoreapp2.1\DwarfsCity.deps.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfsCity\bin\Debug\netcoreapp2.1\DwarfsCity.runtimeconfig.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfsCity\bin\Debug\netcoreapp2.1\DwarfsCity.runtimeconfig.dev.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfsCity\bin\Debug\netcoreapp2.1\DwarfsCity.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfsCity\bin\Debug\netcoreapp2.1\DwarfsCity.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfsCity\obj\Debug\netcoreapp2.1\DwarfsCity.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\primary\DwarfsCity\DwarfsCity\obj\Debug\netcoreapp2.1\DwarfsCity.pdb
