@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Unification/1.0.0": {
+        "dependencies": {
+          "BattleShips": "1.0.0",
+          "Diversion": "1.0.0",
+          "SharedTools": "1.0.0",
+          "anagrams": "1.0.0"
+        },
+        "runtime": {
+          "Unification.dll": {}
+        }
+      },
+      "anagrams/1.0.0": {
+        "dependencies": {
+          "SharedTools": "1.0.0"
+        },
+        "runtime": {
+          "anagrams.dll": {}
+        }
+      },
+      "BattleShips/1.0.0": {
+        "dependencies": {
+          "SharedTools": "1.0.0"
+        },
+        "runtime": {
+          "BattleShips.dll": {}
+        }
+      },
+      "Diversion/1.0.0": {
+        "dependencies": {
+          "SharedTools": "1.0.0"
+        },
+        "runtime": {
+          "Diversion.dll": {}
+        }
+      },
+      "SharedTools/1.0.0": {
+        "runtime": {
+          "SharedTools.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unification/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "anagrams/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BattleShips/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Diversion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharedTools/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

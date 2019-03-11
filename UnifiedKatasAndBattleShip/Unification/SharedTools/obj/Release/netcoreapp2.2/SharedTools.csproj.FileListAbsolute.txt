@@ -1,0 +1,11 @@
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\SharedTools\bin\Release\netcoreapp2.2\SharedTools.deps.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\SharedTools\bin\Release\netcoreapp2.2\SharedTools.runtimeconfig.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\SharedTools\bin\Release\netcoreapp2.2\SharedTools.runtimeconfig.dev.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\SharedTools\bin\Release\netcoreapp2.2\SharedTools.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\SharedTools\bin\Release\netcoreapp2.2\SharedTools.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\SharedTools\obj\Release\netcoreapp2.2\SharedTools.csproj.CoreCompileInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\SharedTools\obj\Release\netcoreapp2.2\SharedTools.AssemblyInfoInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\SharedTools\obj\Release\netcoreapp2.2\SharedTools.AssemblyInfo.cs
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\SharedTools\obj\Release\netcoreapp2.2\SharedTools.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\SharedTools\obj\Release\netcoreapp2.2\SharedTools.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\SharedTools\obj\Release\netcoreapp2.2\SharedTools.csprojAssemblyReference.cache

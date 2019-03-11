@@ -1,0 +1,56 @@
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.deps.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.runtimeconfig.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.runtimeconfig.dev.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.csprojAssemblyReference.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.csproj.CoreCompileInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.AssemblyInfoInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.AssemblyInfo.cs
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\SharedTools.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\SharedTools.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.csproj.CopyComplete
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.deps.json
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.runtimeconfig.json
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.runtimeconfig.dev.json
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\SharedTools.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\SharedTools.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.csprojAssemblyReference.cache
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.csproj.CoreCompileInputs.cache
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.AssemblyInfoInputs.cache
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.AssemblyInfo.cs
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.csproj.CopyComplete
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.deps.json
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.runtimeconfig.json
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.runtimeconfig.dev.json
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\SharedTools.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\SharedTools.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.csprojAssemblyReference.cache
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.csproj.CoreCompileInputs.cache
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.AssemblyInfoInputs.cache
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.AssemblyInfo.cs
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.csproj.CopyComplete
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.deps.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.runtimeconfig.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.runtimeconfig.dev.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\Diversion.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\SharedTools.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\bin\Debug\netcoreapp2.2\SharedTools.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.csprojAssemblyReference.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.csproj.CoreCompileInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.AssemblyInfoInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.AssemblyInfo.cs
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.csproj.CopyComplete
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\diversion\Diversion\Diversion\obj\Debug\netcoreapp2.2\Diversion.pdb

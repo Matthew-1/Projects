@@ -1,0 +1,60 @@
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\AnagramTests.deps.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\AnagramTests.runtimeconfig.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\AnagramTests.runtimeconfig.dev.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\AnagramTests.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\AnagramTests.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\anagrams.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\anagrams.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.csprojAssemblyReference.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.csproj.CoreCompileInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.AssemblyInfoInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.AssemblyInfo.cs
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.csproj.CopyComplete
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\wordlist.txt
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\SharedTools.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\SharedTools.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\wordlist.txt
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\AnagramTests.deps.json
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\AnagramTests.runtimeconfig.json
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\AnagramTests.runtimeconfig.dev.json
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\AnagramTests.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\AnagramTests.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\anagrams.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\SharedTools.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\anagrams.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\SharedTools.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.csprojAssemblyReference.cache
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.csproj.CoreCompileInputs.cache
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.AssemblyInfoInputs.cache
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.AssemblyInfo.cs
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.csproj.CopyComplete
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\wordlist.txt
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\AnagramTests.deps.json
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\AnagramTests.runtimeconfig.json
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\AnagramTests.runtimeconfig.dev.json
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\AnagramTests.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\AnagramTests.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\anagrams.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\SharedTools.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\anagrams.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\bin\Debug\netcoreapp2.2\SharedTools.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.csprojAssemblyReference.cache
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.csproj.CoreCompileInputs.cache
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.AssemblyInfoInputs.cache
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.AssemblyInfo.cs
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.csproj.CopyComplete
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\anagrams\anagrams\AnagramTests\obj\Debug\netcoreapp2.2\AnagramTests.pdb

@@ -1,0 +1,15 @@
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\anagrams\bin\Release\netcoreapp2.2\wordlist.txt
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\anagrams\bin\Release\netcoreapp2.2\anagrams.deps.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\anagrams\bin\Release\netcoreapp2.2\anagrams.runtimeconfig.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\anagrams\bin\Release\netcoreapp2.2\anagrams.runtimeconfig.dev.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\anagrams\bin\Release\netcoreapp2.2\anagrams.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\anagrams\bin\Release\netcoreapp2.2\anagrams.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\anagrams\bin\Release\netcoreapp2.2\SharedTools.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\anagrams\bin\Release\netcoreapp2.2\SharedTools.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\anagrams\obj\Release\netcoreapp2.2\anagrams.csprojAssemblyReference.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\anagrams\obj\Release\netcoreapp2.2\anagrams.csproj.CoreCompileInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\anagrams\obj\Release\netcoreapp2.2\anagrams.AssemblyInfoInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\anagrams\obj\Release\netcoreapp2.2\anagrams.AssemblyInfo.cs
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\anagrams\obj\Release\netcoreapp2.2\anagrams.csproj.CopyComplete
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\anagrams\obj\Release\netcoreapp2.2\anagrams.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\anagrams\anagrams\anagrams\obj\Release\netcoreapp2.2\anagrams.pdb

@@ -1,0 +1,84 @@
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.deps.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.runtimeconfig.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.runtimeconfig.dev.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.csprojAssemblyReference.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.csproj.CoreCompileInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.AssemblyInfoInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.AssemblyInfo.cs
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\anagrams.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\Diversion.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\anagrams.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\Diversion.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.csproj.CopyComplete
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\wordlist.txt
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\SharedTools.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\SharedTools.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\BattleShips.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\BattleShips.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\wordlist.txt
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.deps.json
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.runtimeconfig.json
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.runtimeconfig.dev.json
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\anagrams.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\BattleShips.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\Diversion.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\SharedTools.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\anagrams.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\BattleShips.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\Diversion.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\bin\Debug\netcoreapp2.2\SharedTools.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.csprojAssemblyReference.cache
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.csproj.CoreCompileInputs.cache
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.AssemblyInfoInputs.cache
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.AssemblyInfo.cs
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.csproj.CopyComplete
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\Unified Katas\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\wordlist.txt
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.deps.json
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.runtimeconfig.json
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.runtimeconfig.dev.json
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\anagrams.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\BattleShips.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\Diversion.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\SharedTools.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\anagrams.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\BattleShips.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\Diversion.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\SharedTools.pdb
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.csprojAssemblyReference.cache
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.csproj.CoreCompileInputs.cache
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.AssemblyInfoInputs.cache
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.AssemblyInfo.cs
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.csproj.CopyComplete
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.dll
+C:\Users\Owca!\Desktop\KataAndBattleShips\UnifiedKatasAndBattleShip\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\wordlist.txt
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.deps.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.runtimeconfig.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.runtimeconfig.dev.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\Unification.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\anagrams.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\BattleShips.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\Diversion.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\SharedTools.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\anagrams.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\BattleShips.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\Diversion.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\bin\Debug\netcoreapp2.2\SharedTools.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.csprojAssemblyReference.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.csproj.CoreCompileInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.AssemblyInfoInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.AssemblyInfo.cs
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.csproj.CopyComplete
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\gitHub\public\Projects\UnifiedKatasAndBattleShip\Unification\Unification\obj\Debug\netcoreapp2.2\Unification.pdb

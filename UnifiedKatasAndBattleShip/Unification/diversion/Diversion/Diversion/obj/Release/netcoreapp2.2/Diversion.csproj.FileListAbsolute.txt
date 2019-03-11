@@ -1,0 +1,14 @@
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\bin\Release\netcoreapp2.2\Diversion.deps.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\bin\Release\netcoreapp2.2\Diversion.runtimeconfig.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\bin\Release\netcoreapp2.2\Diversion.runtimeconfig.dev.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\bin\Release\netcoreapp2.2\Diversion.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\bin\Release\netcoreapp2.2\Diversion.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\bin\Release\netcoreapp2.2\SharedTools.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\bin\Release\netcoreapp2.2\SharedTools.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\obj\Release\netcoreapp2.2\Diversion.csprojAssemblyReference.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\obj\Release\netcoreapp2.2\Diversion.csproj.CoreCompileInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\obj\Release\netcoreapp2.2\Diversion.AssemblyInfoInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\obj\Release\netcoreapp2.2\Diversion.AssemblyInfo.cs
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\obj\Release\netcoreapp2.2\Diversion.csproj.CopyComplete
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\obj\Release\netcoreapp2.2\Diversion.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\diversion\Diversion\Diversion\obj\Release\netcoreapp2.2\Diversion.pdb
