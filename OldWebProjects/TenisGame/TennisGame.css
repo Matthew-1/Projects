@@ -1,0 +1,86 @@
+body {
+    align-items: center;
+    justify-content: center;
+    background-color: #595959;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+button {
+    margin-top: 10px;
+    font-family: 'Chakra Petch', sans-serif;
+    padding: 20px;
+    font-size: 40px;
+    font-weight: bolder;
+    color: #F2C600;
+    background-color: #848484;
+    border: 2px solid #848484;
+    border-radius: 4px;
+    letter-spacing: 5px;
+}
+
+button:hover {
+    cursor: pointer;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+    background-color: #6A6A6A;
+}
+
+#mainContainer {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    /* 1st step to keep it centered*/
+}
+
+#chooseMode {
+    margin-top: 15px;
+    font-size: 30px;
+    color: #F2C600;
+    letter-spacing: 0.5px;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block/*second step*/
+}
+
+.input {
+    float: left;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    /*3rd step*/
+}
+
+#scoresTable {
+    font-size: 30px;
+    color: #F2C600;
+    letter-spacing: 0.5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.score {
+    width: 500px;
+    float: left;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#playButton {
+    align-items: center;
+    outline: none;
+}
+
+#canvas1 {
+    border-top: 3px solid #595959;
+    border-bottom: 3px solid #595959;
+    border-left: 2px solid #F2C600;
+    border-right: 2px solid #F2C600;
+    padding-right: 5px;
+    padding-left: 5px;
+}

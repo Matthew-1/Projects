@@ -1,0 +1,207 @@
+body {
+    margin: 0;
+    background-color: #26282E;
+    color: #209781;
+    font-family: 'Lobster', sans-serif;
+    font-size: 28px;
+}
+
+a:link {
+    color: #209781;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #209781;
+}
+
+a:active {
+    color: #209781;
+}
+
+a:hover {
+    color: #E9B64A;
+}
+
+h1 {
+    font-size: 64px;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 5px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+p {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+}
+
+.board {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.card {
+    width: 125px;
+    height: 125px;
+    display: inline-block;
+    margin: 3px;
+    background-image: url("../Obrazy/imgMemory/BurekMemory.png");
+    border: 4px solid #51c8b2;
+    border-radius: 4px;
+    cursor: pointer;
+    filter: brightness(70%);
+    transition: all .3s ease-in-out;
+}
+
+.card.revealed {
+    width: 125px;
+    height: 125px;
+    display: inline-block;
+    margin: 3px;
+    border: 4px solid #E9B64A;
+    border-radius: 4px;
+    filter: brightness(100%);
+}
+
+.card:hover {
+    border: 4px solid #E9B64A;
+    filter: brightness(100%);
+}
+
+.score {
+    margin-top: 5px;
+    letter-spacing: 2px;
+}
+
+.scoreNumber.add {
+    color: #E9B64A;
+    filter: brightness(100%);
+    animation-name: enlight;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes enlight {
+    0% {
+        filter: brightness(70%);
+    }
+    25% {
+        filter: brightness(100%);
+        color: white;
+    }
+    50% {
+        filter: brightness(100%);
+        color: #E9B64A;
+    }
+    75% {
+        filter: brightness(100%);
+        color: white;
+    }
+    100% {
+        filter: brightness(70%);
+    }
+}
+
+.playAgain {
+    width: 1000px;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button.playAgain {
+    margin-bottom: 10px;
+    align-content: center;
+    display: block;
+    color: #209781;
+    font-family: 'Lobster', sans-serif;
+    width: 200px;
+    background-color: #26282E;
+    border: 2px solid #484A4E;
+    border-radius: 10px;
+    color: #E9B64A;
+    font-weight: bolder;
+    font-size: 30px;
+    outline: none;
+    text-align: center;
+    padding: 5px;
+    cursor: pointer;
+    animation-name: enlightment;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
+}
+
+#finished {
+    font-size: 64px;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 5px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#finishedScore {
+    font-weight: 400;
+    color: #E9B64A;
+    animation-name: sizing;
+    animation-duration: 0.7s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+ol {
+    display: none;
+    margin: 0;
+    animation-name: enlightment;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
+}
+
+#previousScores {
+    margin-top: 30px;
+    cursor: context-menu;
+}
+
+#previousScores>ol {
+    max-width: 10px;
+    padding: 3px;
+    letter-spacing: 1px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    display: block;
+    align-content: center;
+}
+
+@keyframes enlightment {
+    from {
+        color: #FAC75B;
+    }
+    to {
+        color: #B68317;
+    }
+}
+
+@keyframes sizing {
+    from {
+        font-size: 63px;
+    }
+    to {
+        font-size: 64px;
+    }
+}

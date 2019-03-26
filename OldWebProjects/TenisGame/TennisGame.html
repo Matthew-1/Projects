@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="../LIBRARY/BOOTSTRAP/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="TennisGame.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Chakra+Petch" rel="stylesheet">
+
+
+    <title>Play a Tennis!</title>
+</head>
+
+<body>
+
+    <div id="mainContainer" class="container">
+
+        <div class="row">
+            <div id="chooseMode" class="col-md-12">
+                <form id="form">
+                    <div class="input col-sm-6" id="singleMode"><input type="radio" id="single">Single player</div>
+                    <span style="clear:both"></span>
+                    <div class="input col-sm-6" id="doubleMode"><input type="radio" id="double">Two players</div>
+                </form>
+            </div>
+            <span style="clear:both;"></span>
+        </div>
+
+
+
+        <div class="row">
+            <div id="scoresTable">
+
+                <div id="playerOne" class="score col-md-6">Player one: </div>
+                <div id="playerTwo" class="score col-md-6">Player two: </div>
+
+            </div>
+        </div>
+
+
+        <div style="clear:both"></div>
+
+
+        <div class="row">
+
+            <canvas id="canvas1" class="col-md-12"></canvas>
+            <button id="playButton" class="col-md-4 offset-md-4" onclick="START()">PLAY</button>
+
+        </div>
+
+
+    </div>
+
+
+    <script type="text/javascript" src="../LIBRARY/JQUERY/jquery.js"></script>
+
+    <script src="../LIBRARY/BOOTSTRAP/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript" src="TennisGame.js"></script>
+
+
+</body>
+
+</html>
