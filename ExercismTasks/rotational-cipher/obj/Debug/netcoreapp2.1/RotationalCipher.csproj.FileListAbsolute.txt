@@ -1,0 +1,28 @@
+C:\Users\Owca!\Exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Owca!\Exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Owca!\Exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Owca!\Exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.deps.json
+C:\Users\Owca!\Exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.runtimeconfig.json
+C:\Users\Owca!\Exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.runtimeconfig.dev.json
+C:\Users\Owca!\Exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.dll
+C:\Users\Owca!\Exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.pdb
+C:\Users\Owca!\Exercism\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.csprojAssemblyReference.cache
+C:\Users\Owca!\Exercism\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.csproj.CoreCompileInputs.cache
+C:\Users\Owca!\Exercism\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.AssemblyInfoInputs.cache
+C:\Users\Owca!\Exercism\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.AssemblyInfo.cs
+C:\Users\Owca!\Exercism\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.dll
+C:\Users\Owca!\Exercism\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\EXERCISM TASKS\rotational-cipher\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\EXERCISM TASKS\rotational-cipher\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\EXERCISM TASKS\rotational-cipher\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\EXERCISM TASKS\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.deps.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\EXERCISM TASKS\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.runtimeconfig.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\EXERCISM TASKS\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.runtimeconfig.dev.json
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\EXERCISM TASKS\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\EXERCISM TASKS\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.pdb
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\EXERCISM TASKS\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.csprojAssemblyReference.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\EXERCISM TASKS\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.csproj.CoreCompileInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\EXERCISM TASKS\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.AssemblyInfoInputs.cache
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\EXERCISM TASKS\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.AssemblyInfo.cs
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\EXERCISM TASKS\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.dll
+C:\OwczePliki\wspolneLinux\KODY\Corelate\REPOZYTORIUM\z_otherRepo\mine\kata-tasks\EXERCISM TASKS\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.pdb

@@ -1,0 +1,1 @@
+This folder contains realized projects from exercism.io
